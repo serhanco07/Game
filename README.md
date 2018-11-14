@@ -1,1 +1,1 @@
-# This is my first graphical game.
+# run maingamerunner to play the game.
